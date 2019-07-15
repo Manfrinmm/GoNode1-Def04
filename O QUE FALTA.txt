@@ -1,0 +1,5 @@
+Todos cadastros devem possuir validação de campos com
+mensagens legíveis;
+
+
+
